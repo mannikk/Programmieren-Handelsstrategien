@@ -1,1 +1,3 @@
-# Programmieren-Handelsstrategien
+
+
+Hier werden kenntnisse gesammelt # Programmieren-Handelsstrategien
